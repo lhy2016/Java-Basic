@@ -4,7 +4,7 @@
 
 <h3>Program test cases and output</h3>
 <b>Test Case 1:</b>
-<code>
+
 <pre>
 Matrix 1:
 0 0 1 4 
@@ -18,10 +18,10 @@ Matrix 2:
 5 8 2 8 
 5 0 6 3 
 
-Regular product:
+<b>Regular product:</b>
 25 8 26 20 
 71 81 67 151 
 22 20 22 40 
 44 8 57 54 
 </pre>
-</code>
+
