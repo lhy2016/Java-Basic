@@ -4,9 +4,9 @@
 
 <h3>Program test cases and output</h3>
 <b>Test Case 1:</b>
-
-<pre>
 <code>
+<pre>
+
 Matrix 1:
 0 0 1 4 
 1 8 8 4 
@@ -24,6 +24,7 @@ Matrix 2:
 71 81 67 151 
 22 20 22 40 
 44 8 57 54 
-</code>
+
 </pre>
 
+</code>
