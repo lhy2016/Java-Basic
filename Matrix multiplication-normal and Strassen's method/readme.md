@@ -6,27 +6,26 @@
 <b>Test Case 1:</b>
 <code>
 <pre>
-
 Matrix 1:
 0 0 1 4 
 1 8 8 4 
 0 2 2 2 
 2 3 0 7 
-
+<br />
 Matrix 2:
 3 1 3 3 
 1 2 3 9 
 5 8 2 8 
 5 0 6 3 
-
+<br />
 <b>Regular product:</b>
 25 8 26 20 
 71 81 67 151 
 22 20 22 40 
 44 8 57 54 
-
+<br />
 Running time: 24468 ns
-
+<br />
 Strassen product:
 25 8 26 20 
 71 81 67 151 
