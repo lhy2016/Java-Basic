@@ -26,19 +26,19 @@ Matrix 2:
 22 20 22 40 
 44 8 57 54 
 <br />
-Running time: 24468 ns
+Running time: <b>24468 ns</b>
 <br />
-Strassen product:
+<b>Strassen product:</b>
 25 8 26 20 
 71 81 67 151 
 22 20 22 40 
 44 8 57 54 
 
-Running time:535950 ns
+Running time:<b>535950 ns</b>
 
 Test Case 2:
 Please enter the size of matrix (must be power of 2):
-8
+<b>8</b>
 Matrix 1:
 5 8 0 0 8 7 8 4 
 6 0 6 0 4 5 3 5 
