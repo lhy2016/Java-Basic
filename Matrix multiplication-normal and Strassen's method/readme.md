@@ -35,8 +35,11 @@ Running time: <b>24468 ns</b>
 44 8 57 54 
 
 Running time:<b>535950 ns</b>
-
+</pre>
+</code>
 <b>Test Case 2:</b>
+<pre>
+<code>
 Please enter the size of matrix (must be power of 2):
 <b>8</b>
 Matrix 1:
