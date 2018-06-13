@@ -6,6 +6,8 @@
 <b>Test Case 1:</b>
 <code>
 <pre>
+Please enter the size of matrix (must be power of 2):
+<b>4</b>
 Matrix 1:
 0 0 1 4 
 1 8 8 4 
