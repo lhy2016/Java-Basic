@@ -123,5 +123,7 @@ Running time:<b>8576654 ns</b></pre></code>
 <p>Analysis: to walk through all elements in result matrix takes O(n^2) time, for each element, to compute the value of it takes O(n) time. Therefore, the total running time is O(n^2*n) = <b>O(n^3)</b>.</p>
 <p>For Strassen’s algorithm, product of two matrices can be computed in general as follows:</p>
 <img src = "https://lh5.googleusercontent.com/HRt7rsyr56Onbt9dGoWCezaaS_2quaxYDHpdlQKdueAVgh6ZW44Wt50TZFBIZuJ02nkybhL9ZUeaOMutc477U7JYfE4l6s3Tmaoo0u0R1XZyfbNJKabm5CAc894scPEKUKwRQdSz" height = "280">
+<p>For 2x2 matrices, it only has <b>7</b> multiplications, therefore, the running time of Strassen's algorithm is:</p>
+
 
 
