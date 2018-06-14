@@ -116,9 +116,8 @@ Running time: <b>554009 ns</b>
 355 359 370 467 346 383 427 376 320 313 301 364 289 353 238 323 
 389 304 298 409 370 354 421 413 383 411 278 386 265 392 244 269 
 
-Running time:<b>8576654 ns</b>
-</pre></code>
-<h3 style = "margin-top:5px">Theoretical runnning time analysis</h3>
+Running time:<b>8576654 ns</b></pre></code>
+<h3 style = 'margin-top:0px'>Theoretical runnning time analysis</h3>
 <b>Regular multiplication algorithm:</b> 
 
 
