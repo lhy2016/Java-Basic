@@ -118,8 +118,7 @@ Running time: <b>554009 ns</b>
 Running time:<b>8576654 ns</b></pre></code>
 <h3>Theoretical runnning time analysis</h3>
 <b style = 'margin-bottom:20px'>Regular multiplication algorithm:</b> 
-<p>
-<img style = 'float:left' src = "https://lh6.googleusercontent.com/fi8L5ejDjvjRi1n_cYixFK9rxGn2UcXeAdiP622V53VMLdipsD-bVU00rqv9ENZ6CnRKkOyDRngW45UaRaxcagj6LFVRHUUFb9z3BFXNPMSgpMrn8q_UnrBfJYg5xpgEU3W0QGzX" height="200">
-Analysis: to walk through all elements in result matrix takes O(n^2) time, for each element, to compute the value of it takes O(n) time
-</p>
+
+<img src = "https://lh6.googleusercontent.com/fi8L5ejDjvjRi1n_cYixFK9rxGn2UcXeAdiP622V53VMLdipsD-bVU00rqv9ENZ6CnRKkOyDRngW45UaRaxcagj6LFVRHUUFb9z3BFXNPMSgpMrn8q_UnrBfJYg5xpgEU3W0QGzX" height="200">
+<p>Analysis: to walk through all elements in result matrix takes O(n^2) time, for each element, to compute the value of it takes O(n) time. Therefore, the total running time is O(n^2*n) = <b>O(n^3)</b>.</p>
 
