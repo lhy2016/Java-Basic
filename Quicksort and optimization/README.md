@@ -14,3 +14,8 @@
 <p>Input size: <b>100,000,000</b></p>
 <img src = "https://lh5.googleusercontent.com/bAyt4BMoPS5IeDJ5AIlbRus9ebZPDFbkrVFNUdm-zVCAH9JCgsua6oM0M55BrQCzJhPugAnPKXHKwz4SoVbCUVuL6yX_iacmd6dc0LeJNSnmsmRg_0LR0DDkWn1Z3tAuuDXRhkrn">
 <p>For this case, both counters for quickSort1 and quickSort2 almost reached the maximum of the type “float” in java.  For quickSort3, both counters and running time caused overflow problem because they are <b>way too large.</b></p>
+<h3>Analysis</h3>
+<p><b>Quicksort1</b> is the simplest version of quicksort algorithm. For large size randomly generated array, it actually has a <b>not bad </b>performance.</p>
+<p><b>Quicksort2</b> optimized Quicksort1 by using median as the pivot in each array/subarray. In order to get the median, it used Randomized Selection Algorithm. To use median as the pivot for each recursive call is to, theoretically,  make sure having a “good split” every time to evenly split the array, so two sub-recursion would take roughly same time to run. </p>
+
+<p>While, at first, I implemented strict Randomized Selection Algorithm. I found even “good split” is guaranteed, it took too much time to recursively get the exact median for a large array. It never beat quickSort1.</p>
