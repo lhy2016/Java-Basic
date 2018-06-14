@@ -118,6 +118,6 @@ Running time: <b>554009 ns</b>
 Running time:<b>8576654 ns</b></pre></code>
 <h3>Theoretical runnning time analysis</h3>
 <b>Regular multiplication algorithm:</b> 
-<img src = "https://lh6.googleusercontent.com/fi8L5ejDjvjRi1n_cYixFK9rxGn2UcXeAdiP622V53VMLdipsD-bVU00rqv9ENZ6CnRKkOyDRngW45UaRaxcagj6LFVRHUUFb9z3BFXNPMSgpMrn8q_UnrBfJYg5xpgEU3W0QGzX">
+<img src = "https://lh6.googleusercontent.com/fi8L5ejDjvjRi1n_cYixFK9rxGn2UcXeAdiP622V53VMLdipsD-bVU00rqv9ENZ6CnRKkOyDRngW45UaRaxcagj6LFVRHUUFb9z3BFXNPMSgpMrn8q_UnrBfJYg5xpgEU3W0QGzX" height="200">
 
 
