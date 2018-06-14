@@ -125,5 +125,6 @@ Running time:<b>8576654 ns</b></pre></code>
 <img src = "https://lh5.googleusercontent.com/HRt7rsyr56Onbt9dGoWCezaaS_2quaxYDHpdlQKdueAVgh6ZW44Wt50TZFBIZuJ02nkybhL9ZUeaOMutc477U7JYfE4l6s3Tmaoo0u0R1XZyfbNJKabm5CAc894scPEKUKwRQdSz" height = "280">
 <p>For 2x2 matrices, it only has <b>7</b> multiplications, therefore, the running time of Strassen's algorithm is:</p>
 <img src = "https://lh5.googleusercontent.com/rrMraA_JM1U94bQtkVJ_4NpTq4EJ9piGsO4lCDlPx1fjfATOls9xU9X7HYImLS6MHiifTG_LG-SKcguqDwrV6ZRK6a5wfM-5rzNz9ZpBPBt1xensPKMy-L1S2_wyqf0IIKita6Ch" height = "50">
+<p>according to master theorem, the running time is <b>O(n<sup>lg(7)</sup>)</b>, which is faster than regular algorithem O(n^3).</p>
 
 
