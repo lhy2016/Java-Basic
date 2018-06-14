@@ -13,4 +13,4 @@
 <img src = "https://lh6.googleusercontent.com/oWcs3ODi7JnQaLUuig9BcJ7HfvK86PNxf-Qs8Pe3H04gAkm8i0CJ1PTwZgFLH3S9F4Lw6QmFRiqrRshDbTdzg1CUZbLIOv9wHVe57zgk6OTmGJ014kb3pxxfUjigVSsFVn2C8SsI">
 <p>Input size: <b>100,000,000</b></p>
 <img src = "https://lh5.googleusercontent.com/bAyt4BMoPS5IeDJ5AIlbRus9ebZPDFbkrVFNUdm-zVCAH9JCgsua6oM0M55BrQCzJhPugAnPKXHKwz4SoVbCUVuL6yX_iacmd6dc0LeJNSnmsmRg_0LR0DDkWn1Z3tAuuDXRhkrn">
-<p>For this case, both counters for quickSort1 and quickSort2 almost reached the maximum of the type “float” in java.  For quickSort3, both counters and running time caused overflow problem because they are way too large.</p>
+<p>For this case, both counters for quickSort1 and quickSort2 almost reached the maximum of the type “float” in java.  For quickSort3, both counters and running time caused overflow problem because they are <b>way too large.</b></p>
