@@ -19,3 +19,5 @@
 <p><b>Quicksort2</b> optimized Quicksort1 by using median as the pivot in each array/subarray. In order to get the median, it used <b>Randomized Selection Algorithm</b>. To use median as the pivot for each recursive call is to, theoretically,  make sure having a “good split” every time to evenly split the array, so two sub-recursion would take roughly same time to run. </p>
 
 <p>While, at first, I implemented strict Randomized Selection Algorithm. I found even “good split” is guaranteed, it took too much time to recursively get the exact median for a large array. It never beat quickSort1.</p>
+<p>Therefore, I made some optimization</p>
+<img src = "https://lh3.googleusercontent.com/KOw4ya2vZt3VeToi4RVcDiu227xoo1dogYFFmmd2IjXVX4mwWXemIAm0_Qw4f7CwBnt3Mc5w_BFUDCNtlorI5HHkMyQ_wSyoHi6U37SLVb0hUmMPgQrBDmZCn-67JimGpyPJBDzq">
