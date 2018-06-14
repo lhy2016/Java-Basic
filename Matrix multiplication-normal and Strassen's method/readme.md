@@ -117,8 +117,7 @@ Running time: <b>554009 ns</b>
 389 304 298 409 370 354 421 413 383 411 278 386 265 392 244 269 
 
 Running time:<b>8576654 ns</b>
-</pre>
-</code>
+</pre></code>
 <h3>Theoretical runnning time analysis</h3>
 
 
