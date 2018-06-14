@@ -127,4 +127,10 @@ Running time:<b>8576654 ns</b></pre></code>
 <img src = "https://lh5.googleusercontent.com/rrMraA_JM1U94bQtkVJ_4NpTq4EJ9piGsO4lCDlPx1fjfATOls9xU9X7HYImLS6MHiifTG_LG-SKcguqDwrV6ZRK6a5wfM-5rzNz9ZpBPBt1xensPKMy-L1S2_wyqf0IIKita6Ch" height = "50">
 <p>according to master theorem, the running time is <b>O(n<sup>lg(7)</sup>)</b>, which is faster than regular algorithem O(n^3).</p>
 
+<h3>Comparing between theoretical and actual running time</h3>
+<p> In my program, the actual running time of Strassen’s algorithm is much longer than the regular multiplication algorithm. <b>Why is that?</b>
+<p> While analyzing theoretical algorithm, we ignore the less significant factor. For example, if the running time is O(n^3 + n^2), we only take O(n^3), but in actual program, all those less significant factors take some time to run. They all add up. Especially for recursion cases, in each recursive call, all these less significant factors run. After the entire method finished, these less significant factors actually added a lot of time on the total running time.</p>
+    <p> In my productStrassen() method, except recursive call, all other methods, such as copySubMatrix(), matrixAddition(), matrixSubtraction(), mergeMatrix().etc.. take O(n^2). They contribute a lot on total running time. 
+
+</p>
 
