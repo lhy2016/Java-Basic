@@ -22,4 +22,5 @@
 <p>Therefore, I made some optimization</p>
 <img src = "https://lh3.googleusercontent.com/KOw4ya2vZt3VeToi4RVcDiu227xoo1dogYFFmmd2IjXVX4mwWXemIAm0_Qw4f7CwBnt3Mc5w_BFUDCNtlorI5HHkMyQ_wSyoHi6U37SLVb0hUmMPgQrBDmZCn-67JimGpyPJBDzq">
 <p>I add another two control flow statement, which stopped forcing q(index returned after partition) to be exactly the index of the median. Instead, <b>as long as it get close enough(here, I accept a 1% error bound), we can accept that.</b></p>
-
+<p><b>QuickSort3</b> also use median in each recursive call as the pivot to evenly split the array. While, it use deterministic selection algorithm. It has similar problem like QuickSort2 that getting median of the array caused too much time. Unfortunately, it calculated the median in pure mathematics method, which made it hard to optimize the selection algorithm.(because you’ll never know how close you got to the actual median until you get the actual median). <b>It seems not practical in actual situation.</b> While, in my program, I still provide a optimization, as long as the array size get smaller than 50, I cut the recursion, instead, using <b>insertion sort</b>.
+</p>
