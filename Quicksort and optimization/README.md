@@ -21,3 +21,5 @@
 <p>While, at first, I implemented strict Randomized Selection Algorithm. I found even “good split” is guaranteed, it took too much time to recursively get the exact median for a large array. It never beat quickSort1.</p>
 <p>Therefore, I made some optimization</p>
 <img src = "https://lh3.googleusercontent.com/KOw4ya2vZt3VeToi4RVcDiu227xoo1dogYFFmmd2IjXVX4mwWXemIAm0_Qw4f7CwBnt3Mc5w_BFUDCNtlorI5HHkMyQ_wSyoHi6U37SLVb0hUmMPgQrBDmZCn-67JimGpyPJBDzq">
+<p>I add another two control flow statement, which stopped forcing q(index returned after partition) to be exactly the index of the median. Instead, <b>as long as it get close enough(here, I accept a 1% error bound), we can accept that.</b></p>
+
