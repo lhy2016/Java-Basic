@@ -7,3 +7,6 @@
 <img src = "https://lh4.googleusercontent.com/vmjhQU5OIz5n9r4FasCVHVESc-T8TXHSWlmhRMrUFZN8-5D-uvlmmwOIah4FSU8HRdM_z1KMApONGdodi_kwuTyM2cwHxw-N-a1rv2i3qtc5UOdB2eBygHarhSOY1J0oP47YJfRr">
 <b>Maze size: 6</b>
 <img src = "https://lh6.googleusercontent.com/83Q1TQb9N1cT8HRz2DK2baFYmNCBaCiJUlDnv1UyhYlCawPA6WrFN1IwogXz3XyPeeHO0da8irnZcLgvhC4-U8lH7CcpmhwuWPrQo4Jw8at_IjCeqF7_6-5hPgIFh77yYVlkVWx-">
+<img src = "https://lh4.googleusercontent.com/-ptuusBTBXt6ATZCHV2JZwf8zAYfYcnvwSvNcXvs1GZ4U8SA2KTd8Ru6yEUozPyteWLMnV1TWmV90GiEArNqpjKEUs4LsxvtVZzac_9XhvBpVmuFzaQxwwpf3lIFl-nKpvvdNtL6">
+<img src = "https://lh6.googleusercontent.com/Zj6M3eBZ8EBbPpGEE3l0liAHEUSzp8NW6s9T6snW3GZ1JIVHPlUQxIJZAn3KeCauKqg0lqvJgk44U21A2doDExvl9bH280TKpZvzlZFCkYevP1dlwPdj9ZcU-VyRWHjChqeuShLl">
+<img src = "https://lh3.googleusercontent.com/oTLx5bG5wcgJzq_uoPGkGtUQPT-JG54bGvqPI-Fi_iIYtjRTvf25dFfmNZlTF46Ggoc6ODQyBdQWwRJ-Aqr55FS0EXoB-Aka5htP3oGyIjUUiBUQ5uPDjjoeRYJTOa3P6k7RzmG7">
