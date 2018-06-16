@@ -13,3 +13,8 @@
 <b>Maze size: 8</b>
 <img src = "https://lh4.googleusercontent.com/1LfDisOv7d1m8--cd9IR87gz1OBGpyiSU8OgslgpuLlwo9DMe-lu_3nglHa5duI76t26TemlqO0G867pjbbGpl8IsTSZRFPx6GKNEkevuoyWsd0ikwzfxYAjeP2T-webR9rozqRn">
 <img src = "https://lh3.googleusercontent.com/_mfgbyFkiC1dFtZV3nI9pyQ8wz3SdMkkfuMhsFoQqIbYsiQUHWdUSE84kqBUsTTgbsvnQ2fS0hbYv3jwIoVSBFZ5bFOXB_7C7xSWGTu3I2MeEIH04S2Uegmq0zzqZEF4OZHZoDjj">
+<img src = "https://lh5.googleusercontent.com/b9QZPrF11CE2uvcAiWh4S9RJePdA0NvY3S4GswtnR7PfhUeD8ugb8pOc886zdWPoQVjjOtqNOWaS6CEMVKh7AA1ny_4Z3UjyxMvZ5FZYwubHcuaJ_4z8R2X0sM8YK1qSxzHUAJJo">
+<h3>Analysis</h3>
+ <p>According to the test result, DFS usually has better performance than BFS for this maze problem. 
+     Consider this problem with common sense, when we try to walk a maze, “trying one path until it has a dead-end” is usually more effective than “trying different paths and stepping further alternately”.
+     Additionally, for my DFS implementation, while a room encounter more than one neighbor rooms, the direction choose in my code is not by random. I gave <b>"right" and "down"</b> directions  more priority so they are chosen in advance. Since our maze has a n entrance at upper-left corner and a exit at lower-right corner, such an implementation helps walk the maze faster because overall we are moving right and down!</p>
